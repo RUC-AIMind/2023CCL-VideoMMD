@@ -2,7 +2,13 @@
 
 # 基于视频的多模态闲聊 
 
- 
+
+# 最新消息
+
+| 时间 | 消息 |
+| --- | --- |
+| 4月10日 | [开放报名]([https://docs.qq.com/form/page/DQkxvUXJLWmVQbGhO](https://docs.qq.com/form/page/DSW9sdXRYdExGWmJv)) |
+|  |  |
 
 **组织者及联系方式：**
 
