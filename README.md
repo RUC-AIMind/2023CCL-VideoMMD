@@ -48,10 +48,10 @@
 <img src="figs/examples.PNG" alt="examples for tiktalk" width="50%"/>
 </p>
 <p align="center">
-<font size=2 color="gray">Examples of dialogues from TikTalk dataset.</font>
+<font size=2 color="gray">图1：TikTalk数据集实例。(a) 一只海鸥从商店偷出食物吃掉。(b) 一场舞蹈表演。(c) 一个博主在谈论她的奇怪经历。</font>
 </p>
 
-图1：TikTalk数据集实例。(a) 一只海鸥从商店偷出食物吃掉。(b) 一场舞蹈表演。(c) 一个博主在谈论她的奇怪经历。
+
 
 ## 3.评价标准
 
@@ -67,7 +67,7 @@
 
  
 
-- **人类评价。**此外，我们会采用人类评价来衡量生成的对话回复质量。我们使用Sensibleness and Specificity Average（SSA）作为人类评价标准。它涵盖了对话中的人类特征，比如常识、逻辑连贯性、一致性和聊天机器人的其他关键方面。Sensibleness要求注释者在视频和对话上下文基础上判断回复是否合理，Specificity要求注释者判断回复是否与上下文有关。
+- **人类评价。** 此外，我们会采用人类评价来衡量生成的对话回复质量。我们使用Sensibleness and Specificity Average（SSA）作为人类评价标准。它涵盖了对话中的人类特征，比如常识、逻辑连贯性、一致性和聊天机器人的其他关键方面。Sensibleness要求注释者在视频和对话上下文基础上判断回复是否合理，Specificity要求注释者判断回复是否与上下文有关。
 
 ## 4.评测赛程
 
